@@ -1,0 +1,1 @@
+# InstaDecor-Privacy-Policy
