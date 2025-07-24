@@ -1,85 +1,30 @@
-# 📄 Privacy Policy for Insta Decor
+# Privacy Policy
 
-**Effective Date:** 24-07-25
-**Last Updated:** 24-07-25
+**Effective Date:** [July 17, 2025]  
+**App Name:** [Insta Decor]  
+**Developer:** This app is developed solely for testing and internal evaluation purposes.
 
-At **Insta Decor**, we are committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your personal information when you use our mobile application.
+## 1. Purpose
+This app is currently in a **closed testing phase**. It is not intended for public use, commercial deployment, or data collection at this stage.
 
----
+## 2. Data Collection
+This app **does not collect, store, or share any personal or sensitive information** from users during testing. Any data provided is solely for demonstration and testing functionality.
 
-## 🔹 1. Information We Collect
+## 3. Permissions
+The app may request permissions such as camera, storage, or location solely to test related features. These are not used for any real-time data collection or analysis.
 
-We collect the following user data:
+## 4. Data Sharing
+No data is shared with third parties. All usage is strictly local to the app and for development testing.
 
-- Name  
-- Phone number  
-- Email address  
-- Address
+## 5. Contact
+If you have any questions about this Privacy Policy or the app, you can contact the developer at:
 
-This information is used only for the proper functioning of the app (e.g., order placement, communication, delivery) and is **not used for advertising, reselling, or any unrelated purposes**.
+**Email:** [instadecorllp@gmail.com]  
+**Developer Name:** [GHNSYM]
 
----
-
-## 🔹 2. Permissions We Request
-
-The app may request access to the following, strictly to support its features:
-
-- **Camera Access:** Allows users to take photos (e.g., of furniture damage).
-- **Photos/Media Access:** Lets users upload images from their device.
-- **Location Access:** Helps autofill or confirm delivery/pickup addresses.
-
-These permissions are requested only when needed and are used with full user consent.
+## 6. Changes to This Policy
+We may update this privacy policy to reflect changes during the testing process. Updates will be posted in the GitHub repository or shared with testers directly.
 
 ---
 
-## 🔹 3. How We Use Your Information
-
-We use your personal data to:
-
-- Process and manage orders
-- Contact users regarding service updates
-- Determine appropriate services based on location
-- Store uploaded content (e.g., images of furniture)
-
-We **do not sell, rent, or misuse** your information.
-
----
-
-## 🔹 4. Third-Party Services
-
-We use third-party services for secure and enhanced operations:
-
-- **Razorpay:** For payment processing  
-- **Twilio:** For sending OTPs and notifications  
-- **Supabase:** For secure backend, authentication, and file storage
-
-These services comply with global data protection standards. Please refer to their respective privacy policies for more information.
-
----
-
-## 🔹 5. Data Security
-
-We use secure communication and storage mechanisms to protect your data. However, no method of transmission over the internet or device storage is 100% secure. We continually work to safeguard your data.
-
----
-
-## 🔹 6. Your Consent
-
-By using the **Insta Decor** app, you agree to this Privacy Policy and the practices described.
-
----
-
-## 🔹 7. Changes to This Policy
-
-We may update this Privacy Policy as needed. Changes will be notified via the app or through our website, with a revised effective date.
-
----
-
-## 🔹 8. Contact Us
-
-For any privacy-related concerns or queries, feel free to contact us:  
-📧 **[instadecorllp@gmail.com]**
-
----
-
-_This Privacy Policy applies only to the Insta Decor mobile application and its related services._
+**Note:** This privacy policy is applicable only for the internal/closed testing phase and does not apply once the app is made public.
